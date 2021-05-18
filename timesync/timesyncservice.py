@@ -24,7 +24,7 @@ logger = logging.getLogger("timesync")
 
 DEFAULT_PORT = 8089
 LISTEN_ADDRESS="0.0.0.0"
-REDIS_PASSWORD="xImpZL0MvunJrjZhImBnJCubs7rcvggnrFWGfIu3aINE9LW35rqPBrwGEgAgBL0mXR/yt4cBuDhtJMuE"
+REDIS_PASSWORD=""
 LOC_TIMESYNC_PORT = 8090
 
 class FilterValues(object):
